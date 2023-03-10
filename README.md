@@ -1,6 +1,6 @@
 # Implementation of "One-bit mmWave MIMO Channel Estimation Using Deep Generative Networks"
 
-Submitted to ICC 2023. Preprint posted to arXiv at: https://arxiv.org/pdf/2211.08635.pdf
+Submitted to IEEE Wireless Comm. Letters. Preprint posted to arXiv at: https://arxiv.org/pdf/2211.08635.pdf
 
 Code, results and data is structured with reference to the paper as given below:
 
